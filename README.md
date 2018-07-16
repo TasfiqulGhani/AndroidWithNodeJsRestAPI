@@ -9,7 +9,7 @@ Android app with node js api to create an simple app to signup and login using M
 - Rest API for simple Log In and sign up.
 - Mongo DB database and aws server used .
 - Express and mongoose used.
-- bcrypt used for password encryption
+- Bcrypt used for password encryption
 - Jwt for access token.
 - post methods for login and signup .
 
